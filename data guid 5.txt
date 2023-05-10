@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"Advice mod 1","desc":"Barvikha Mod was established in 2002 as an ambitious project to create a world-class luxury shopping experience in the heart of Moscow's elite neighborhood. The development was spearheaded by the Mercury Group, a prominent Russian company renowned for its expertise in luxury goods and retail. ","photo":"https://iili.io/HUC3p99.jpg"},
+  {"title":"helper pack 2","desc":"Barvikha Mod stands as a testament to architectural brilliance and aesthetic delight. The exterior façade showcases a harmonious fusion of glass, steel, and natural stone, exuding a sense of grandeur and modernity. The interior spaces are meticulously crafted, ","photo":"https://iili.io/HUC3yue.jpg"},
+  {"title":"tips mod 3","desc":"Barvikha Mod serves as a haven for luxury fashion enthusiasts, boasting an impressive collection of the world's most renowned brands. Leading fashion houses such as Gucci, ","photo":"https://iili.io/HUCFHZb.jpg"},
+  {"title":"how to use this app 4","desc":"Barvikha Mod takes pride in offering its patrons a truly exclusive and personalized shopping experience. The complex ensures a high level of privacy and discretion, making it a preferred destination for high-profile individuals and celebrities. ","photo":"https://iili.io/HUCF9wu.jpg"},
+  {"title":"advance pack 5","desc":"Beyond fashion, Barvikha Mod extends its offerings to encompass various facets of a luxurious lifestyle. The complex houses upscale beauty salons, wellness centers, and gourmet restaurants that cater to the diverse needs and desires of its discerning clientele. ","photo":"https://iili.io/HUCF2Mx.jpg"},
+  {"title":"helper mod 6","desc":"Barvikha Mod goes beyond traditional retail experiences by hosting a range of exclusive events and promotions. These events serve as platforms for renowned designers to showcase their latest collections, attracting fashion enthusiasts and industry professionals from around the world.","photo":"https://iili.io/HUCF36Q.jpg"},
+  {"title":"advice pack 7","desc":"Barvikha Mod benefits from its stunning location amidst the natural beauty of Barvikha's landscape. The complex overlooks the breathtaking Rublyovka district and is in close proximity to the Barvikha Hotel & Spa,","photo":"https://iili.io/HUCFq8P.jpg"},
+  {"title":"tips mod 8","desc":"Barvikha Mod not only serves as a luxury shopping destination but also plays a significant role in boosting the local economy. The complex provides employment opportunities to a considerable number of skilled professionals, ranging from fashion consultants to hospitality staff","photo":"https://iili.io/HUCFa9t.jpg"}
    ]
  
 }
